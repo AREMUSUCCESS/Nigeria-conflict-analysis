@@ -26,7 +26,7 @@ This category is the most lethal, accounting for more than half of all fatalitie
 
 Borno: <img width="817" height="253" alt="image" src="https://github.com/user-attachments/assets/fb5c106d-49a2-4e77-bd4a-24c35f221466" />
 
-Kano:<img width="801" height="249" alt="image" src="https://github.com/user-attachments/assets/18a4ad90-f0ff-406f-ab1d-361bf64035a6" />
+Kano: <img width="801" height="249" alt="image" src="https://github.com/user-attachments/assets/18a4ad90-f0ff-406f-ab1d-361bf64035a6" />
 
 
 **Kidnapping (15% of Fatalities):**
