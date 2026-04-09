@@ -29,11 +29,11 @@ Borno: <img width="817" height="253" alt="image" src="https://github.com/user-at
 Kano:<img width="801" height="249" alt="image" src="https://github.com/user-attachments/assets/18a4ad90-f0ff-406f-ab1d-361bf64035a6" />
 
 
-**Kidnapping (26% of Fatalities):**
-While kidnapping incidents were frequent (recorded in Abuja, Borno, Kaduna, and Bauchi), they resulted in roughly a quarter of total fatalities, indicating a high frequency of "kidnap-for-ransom" where survival is more common than in direct armed conflict.
+**Kidnapping (15% of Fatalities):**
+While kidnapping incidents were frequent (recorded in FCT, Borno, Kaduna, and Bauchi), they resulted in roughly a quarter of total fatalities, indicating a high frequency of "kidnap-for-ransom" where survival is more common than in direct armed conflict.
 <img width="673" height="243" alt="image" src="https://github.com/user-attachments/assets/7fa41aa3-d794-4c58-a38d-3cf921fd9926" />
 
-**Theft and Civil Unrest (24% Combined):** 
+**Theft and Civil Unrest (28% Combined):** 
 These categories represent a significant portion of incident volume but remain lower in lethality compared to armed engagements.
 <img width="671" height="243" alt="image" src="https://github.com/user-attachments/assets/368cf228-9d26-4187-9fad-b11524712301" />
 
@@ -46,8 +46,8 @@ A critical observation is that while Theft is widespread, its contribution to th
 # **Conclusive Recommendations**
 Based on these findings, the following strategic actions are recommended:
 
-**Borno/Kano Deployment:** Security assets should prioritize heavy-infantry and counter-insurgency capabilities in Borno and Kano to address the 50% lethality rate driven by Armed Conflict.
+**Borno/Kano Deployment:** Security assets should prioritize heavy-infantry and counter-insurgency capabilities in Borno and Kano to address the 57% lethality rate driven by Armed Conflict.
 
-**Intelligence-Led Policing in FCT:** In Abuja and surrounding areas, resources should shift toward intelligence-gathering and rapid response units focused on kidnapping prevention.
+**Intelligence-Led Policing in FCT:** In FCT and surrounding areas, resources should shift toward intelligence-gathering and rapid response units focused on kidnapping prevention.
 
-**Standardized Reporting:** The inconsistencies found in the raw data (e.g., mislabeling Abuja as Rivers) highlight the need for a unified digital reporting system to prevent intelligence gaps.
+**Standardized Reporting:** The inconsistencies found in the raw data (e.g., mislabeling FCT as Rivers) highlight the need for a unified digital reporting system to prevent intelligence gaps.
